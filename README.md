@@ -1,5 +1,4 @@
 # Green Missionary Hospital: Healthcare Analytics Dashboard
-## Project Overview
-## An 8-month operational analysis (January-August) of Green Missionary Hospital, transforming fragmented healthcare data into actionable insights through interactive dashboards.
-
+## Project Purpose
+### Developed a comprehensive Power BI analytics dashboard to transform Green Missionary Hospital's operational data into actionable insights, enabling data-driven decision-making across admissions, staffing, revenue, and resource management.
 [![GMS1.png](https://i.postimg.cc/2yWvBmc0/GMS1.png)](https://postimg.cc/q6kgPfdK)
