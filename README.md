@@ -5,5 +5,5 @@
 [![GMS1.png](https://i.postimg.cc/2yWvBmc0/GMS1.png)](https://postimg.cc/q6kgPfdK)
 ## Attendance Dashbaord
 [![GMS2.png](https://i.postimg.cc/prwK5BHw/GMS2.png)](https://postimg.cc/V0FJ3n5g)
-## 
+## Admission Dashboard
 [![GMS3.png](https://i.postimg.cc/526XvRpd/GMS3.png)](https://postimg.cc/Xr6N6xTQ)
