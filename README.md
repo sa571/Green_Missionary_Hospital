@@ -7,3 +7,5 @@
 [![GMS2.png](https://i.postimg.cc/prwK5BHw/GMS2.png)](https://postimg.cc/V0FJ3n5g)
 ## Admission Dashboard
 [![GMS3.png](https://i.postimg.cc/526XvRpd/GMS3.png)](https://postimg.cc/Xr6N6xTQ)
+## Methodology
+Data Processing: Utilized SQL to normalize and clean fragmented data from multiple hospital systems—patient admissions, staff attendance, inventory management, and financial records.
