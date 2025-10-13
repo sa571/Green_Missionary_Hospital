@@ -11,3 +11,10 @@
 ### Data Processing: Utilized SQL to normalize and clean fragmented data from multiple hospital systems—patient admissions, staff attendance, inventory management, and financial records.
 ### Analytics Engine: Employed DAX (Data Analysis Expressions) to create 25+ calculated measures for KPIs including punctuality rates, capacity utilization, geographic concentration, and revenue variance.
 ### Visualization: Built interactive Power BI dashboards with real-time monitoring capabilities, geographic mapping, trend analysis, and mobile-responsive design.
+##Key Performance Indicators (8-Month Period)
+###Revenue21M
+###Balance2M
+###Admitted218
+###Members28 
+###Sold50K 
+###Rate74.82%
